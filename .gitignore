@@ -1,0 +1,9 @@
+# node related
+node_modules
+
+# editor related
+*.swp
+
+# build files
+.serverless
+lib
